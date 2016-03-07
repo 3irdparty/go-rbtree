@@ -8,7 +8,7 @@ A generic rbtree implemented in Go (Golang).
 Import the package from GitHub first.
 
 ```
-import "github.com/lsword/go-rbtree/rbtree" rbtree
+import "github.com/lsword/go-rbtree/rbtree" 
 ```
 Then you can start having fun.
 
